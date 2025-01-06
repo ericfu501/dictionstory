@@ -1,0 +1,31 @@
+{
+    "title": "A Happy Rainy Day",
+    "story": "On a **rainy** day, a little girl felt very **happy** when she found her favorite pink **umbrella**. She danced in the rain, protected by her trusty umbrella, creating puddle-splashing music.",
+    "translation": "在一个下雨天，一个小女孩找到了她最喜欢的粉色雨伞，感到非常开心。她在雨中跳舞，被她信赖的雨伞保护着，创造着踩水坑的音乐。",
+    "memoryTips": [
+        {
+            "word": "rain",
+            "pos": "n./v.",
+            "phonetic": "/reɪn/",
+            "meaning": "雨/下雨",
+            "scene": "故事发生的天气背景",
+            "tip": "通过小女孩玩耍的场景，联想下雨的快乐氛围"
+        },
+        {
+            "word": "happy",
+            "pos": "adj.",
+            "phonetic": "/ˈhæpi/",
+            "meaning": "快乐的",
+            "scene": "小女孩找到雨伞时的心情",
+            "tip": "将快乐与找到心爱物品的情景联系"
+        },
+        {
+            "word": "umbrella",
+            "pos": "n.",
+            "phonetic": "/ˈhæpi/",
+            "meaning": "雨伞",
+            "scene": "保护小女孩的粉色雨伞",
+            "tip": "通过雨伞的保护功能和粉色特征加深印象"
+        }
+    ]
+} 
